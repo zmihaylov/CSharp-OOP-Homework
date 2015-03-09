@@ -1,0 +1,6 @@
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\OOP\DefiningClassesPartOne\newHW\DefiningClassesPartOne\GSMInfo\bin\Debug\GSMInfo.exe.config
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\OOP\DefiningClassesPartOne\newHW\DefiningClassesPartOne\GSMInfo\bin\Debug\GSMInfo.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\OOP\DefiningClassesPartOne\newHW\DefiningClassesPartOne\GSMInfo\bin\Debug\GSMInfo.pdb
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\OOP\DefiningClassesPartOne\newHW\DefiningClassesPartOne\GSMInfo\obj\Debug\GSMInfo.csprojResolveAssemblyReference.cache
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\OOP\DefiningClassesPartOne\newHW\DefiningClassesPartOne\GSMInfo\obj\Debug\GSMInfo.exe
+C:\Users\mhlv\Desktop\New folder\CSharp_2015\OOP\DefiningClassesPartOne\newHW\DefiningClassesPartOne\GSMInfo\obj\Debug\GSMInfo.pdb
