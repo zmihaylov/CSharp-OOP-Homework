@@ -41,7 +41,7 @@ namespace ArmyOfCreatures.Extended.Specialties
                 return;
             }
             
-            this.rounds--;ю
+            this.rounds--;
             attackerWithSpecialty.CurrentAttack *= 2;
         }
 
