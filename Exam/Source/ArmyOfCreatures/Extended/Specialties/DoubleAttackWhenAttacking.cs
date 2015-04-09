@@ -40,7 +40,8 @@ namespace ArmyOfCreatures.Extended.Specialties
                 // Effect expires after fixed number of rounds
                 return;
             }
-
+            
+            this.rounds--;ю
             attackerWithSpecialty.CurrentAttack *= 2;
         }
 
